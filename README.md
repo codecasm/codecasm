@@ -11,4 +11,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=codecasm&&show_icons=true&title_color=ffffff&icon_color=dcbc65&text_color=dcbc65&bg_color=151515">
 
-![Santosh Yadav Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=codecasm&layout=compact&theme=radical)
+![Ashishkumar Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=codecasm&layout=compact&theme=radical)
