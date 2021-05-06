@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on : some Open source projects
 - 🤔 I’m looking for help with : www.codecasm.com
 - 💬 Ask me about: HTML, CSS, JS, Angular, PHP
-- 📫 How to reach me: @dev_ashishkumar
+- 📫 How to reach me: <a href="https://twitter.com/dev_ashishkumar" target="_blank">@dev_ashishkumar</a>
 - 😄 Pronouns: He/Him/Mr.
 - ⚡ Fun fact: I love to learn programming languages and teach them in a funny way
 
